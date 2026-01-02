@@ -1,0 +1,22 @@
+# Data Manipulation and Analysis
+pandas>=2.3.0
+numpy>=2.2.0
+
+# Visualization
+matplotlib>=3.10.0
+seaborn>=0.13.0
+
+# Machine Learning - Classical & Deep Learning
+scikit-learn>=1.8.0
+torch>=2.9.1
+torchvision>=0.21.0
+
+# API Development
+fastapi>=0.115.0
+uvicorn>=0.34.0
+pydantic>=2.10.0
+
+# Specialized Tools
+ucimlrepo>=0.0.7
+python-multipart>=0.0.20
+requests>=2.32.0
