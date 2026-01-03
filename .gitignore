@@ -2,3 +2,7 @@ venv/
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
+.learn/
+.DS_Store
+.env    
+.lesson/
