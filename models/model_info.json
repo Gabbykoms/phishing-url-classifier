@@ -1,0 +1,12 @@
+{
+    "input_size": 50,
+    "hidden_sizes": [
+        128,
+        64,
+        32
+    ],
+    "dropout_rate": 0.3,
+    "test_accuracy": 0.9998727708390763,
+    "test_f1_score": 0.9998887776665555,
+    "test_roc_auc": 0.9999999853075496
+}
