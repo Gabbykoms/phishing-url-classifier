@@ -8,7 +8,7 @@ This repository contains an end-to-end Machine Learning pipeline that classifies
 
 ---
 
-## 7-Day Roadmap (Winter 2026 Sprint)
+## 7-Day Roadmap (Winter 2026 Sprinting)
 
 **Day 1: Data and EDA**  
 Feature correlation and Class Imbalance • *Pandas, Matplotlib*
